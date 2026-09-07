@@ -1,7 +1,7 @@
 //Name: Vivaan Agrawal
 //Period: 3A
 
-public class unitTwoLevelUp {
+public class UnitTwoLevelUp {
     public static void main (String[] args) 
     {
         //LU1

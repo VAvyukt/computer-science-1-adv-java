@@ -1,6 +1,6 @@
 //Name: Vivaan Agrawal
 //Period: 3A
-public class printAndPrintln
+public class PrintAndPrintln
 {
 public static void main(String[] args)
 {

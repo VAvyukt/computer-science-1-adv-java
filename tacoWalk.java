@@ -1,7 +1,7 @@
 //Name: Vivaan Agrawal
 //Period: 3A
 
-public class tacoWalk
+public class TacoWalk
 {
     public static void main(String[] args)
     {

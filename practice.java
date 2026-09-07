@@ -1,6 +1,6 @@
 //Name: Vivaan Agrawal
 //Period: 3A
-public class practice {
+public class Practice {
 public static void main(String[] args)
 {
 //EXTRA REPS =======================================================>
