@@ -63,8 +63,8 @@ public class TacoWalk
        
         //7
        int walkTotalMinutes = 415;
-       int walkHours = 415/60;
-       int walkMinutes = 415%60;
+       int walkHours = walkTotalMinutes/60;
+       int walkMinutes = walkTotalMinutes%60;
        System.out.print("That is ");
        System.out.print(walkHours);
        System.out.print(" hours and ");
